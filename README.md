@@ -1,6 +1,6 @@
 # Coastal_Hack
 
-**Beachify**
+#**Beachify**
 
 ## Inspiration💡
 Since summer is here, people would love to travel to some cooler places and we know the beach is the best option for that. 
